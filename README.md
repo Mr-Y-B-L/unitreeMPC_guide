@@ -37,5 +37,5 @@ Start MPC controller
 ./devel/lib/unitreeMPC_guide/junior_ctrl
 ```
 # Acknowledgments
-实现过程中，有参考YY硕大佬的项目，感谢其开源的项目。
+
 [A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller)
