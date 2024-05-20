@@ -26,7 +26,7 @@ catkin_make
 ```
 Running
 ```
-sorce ./devel/setup.bash
+source ./devel/setup.bash
 ```
 Start Gazebo
 ```
