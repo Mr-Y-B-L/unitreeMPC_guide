@@ -10,7 +10,7 @@
 2. ROS Neotic
 
 ## build
-Please refer to Yushu official configuration for dependencies.
+Please refer to Unitree official configuration for dependencies.
 1. [unitree_guide](https://github.com/unitreerobotics/unitree_guide)<br>
 2. [unitree_ros](https://github.com/unitreerobotics/unitree_ros)<br>
 3. [unitree_legged_msgs](https://github.com/unitreerobotics/unitree_ros_to_real)
